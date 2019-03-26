@@ -7,11 +7,11 @@ description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 葛伟荣的博客, geweirong, 葛伟荣, iOS, Apple, iPhone"
 url: "https://nodeexpress.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/NodeExpress/NodeExpress.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "葛伟荣，阳光大男孩!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
